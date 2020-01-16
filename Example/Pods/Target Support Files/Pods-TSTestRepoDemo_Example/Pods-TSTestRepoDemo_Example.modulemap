@@ -1,0 +1,6 @@
+framework module Pods_TSTestRepoDemo_Example {
+  umbrella header "Pods-TSTestRepoDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TSTestRepoDemo (0.1.0)
+
+DEPENDENCIES:
+  - TSTestRepoDemo (from `../`)
+
+EXTERNAL SOURCES:
+  TSTestRepoDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSTestRepoDemo: b8da3132e8da0e648e985f6faa5a5e5bbcfa09fa
+
+PODFILE CHECKSUM: 8efdf8273386aa6a1abd860d45201ce3b67f5892
+
+COCOAPODS: 1.8.4
