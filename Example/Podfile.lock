@@ -1,0 +1,16 @@
+PODS:
+  - TSTestRepoModel (0.1.0)
+
+DEPENDENCIES:
+  - TSTestRepoModel (from `../`)
+
+EXTERNAL SOURCES:
+  TSTestRepoModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSTestRepoModel: c93e0aeccd1589fbac60f1f37e76c7df109f436e
+
+PODFILE CHECKSUM: e9068337a9f6ec552a019f7241e6732c674ed7c1
+
+COCOAPODS: 1.8.4

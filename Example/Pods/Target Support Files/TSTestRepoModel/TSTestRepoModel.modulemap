@@ -1,0 +1,6 @@
+framework module TSTestRepoModel {
+  umbrella header "TSTestRepoModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
